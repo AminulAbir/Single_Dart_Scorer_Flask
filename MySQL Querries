@@ -1,0 +1,6 @@
+--for creating database
+CREATE DATABASE darts;
+USE darts;
+
+--for creating table
+CREATE TABLE dart(name VARCHAR(50) NOT NULL, score INT NOT NULL);
